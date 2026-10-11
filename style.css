@@ -1,0 +1,293 @@
+<!DOCTYPE html><html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Rajiv Tamang's personal portfolio. A technology enthusiast passionate about innovation and learning.">
+
+<title>Rajiv Tamang | Tech Enthusiast</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head><body><!-- Navigation -->
+<header class="header">
+    <nav class="container navbar">
+        <a href="#home" class="logo">Rajiv<span>.</span></a>
+
+        <div class="nav-links">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#interests">Interests</a>
+            <a href="#skills">Skills</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </nav>
+</header>
+
+<main>
+
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="container hero-content">
+
+            <div class="badge">
+                <span class="status-dot"></span>
+                Tech Enthusiast · Lifelong Learner
+            </div>
+
+            <h1>
+                Hello, I'm<br>
+                Rajiv <span class="highlight">Tamang.</span>
+            </h1>
+
+            <p class="hero-description">
+                A technology enthusiast fascinated by innovation,
+                computers, artificial intelligence, and the endless
+                possibilities of the digital world.
+            </p>
+
+            <div class="hero-buttons">
+                <a href="#about" class="button button-primary">
+                    Discover More ↗
+                </a>
+
+                <a href="#contact" class="button button-outline">
+                    Get in Touch
+                </a>
+            </div>
+
+            <div class="hero-footer">
+                <span>CURIOUS MIND.</span>
+                <span>FUTURE FOCUSED.</span>
+                <span>ALWAYS LEARNING.</span>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section" id="about">
+        <div class="container">
+
+            <p class="section-label">01 — ABOUT ME</p>
+
+            <h2 class="section-title">
+                Curious by nature.<br>
+                Inspired by technology.
+            </h2>
+
+            <div class="about-grid">
+
+                <div class="about-text">
+                    <p>
+                        Technology is more than computers and gadgets.
+                        It is a powerful way to solve problems, connect
+                        people, and transform creative ideas into
+                        something useful.
+                    </p>
+
+                    <p>
+                        I enjoy exploring new technologies, discovering
+                        digital innovations, and understanding how
+                        technology influences our everyday lives.
+                    </p>
+
+                    <p>
+                        My goal is to keep learning, develop practical
+                        skills, and explore opportunities in the
+                        technology industry.
+                    </p>
+                </div>
+
+                <div class="profile-card">
+                    <div class="profile-top">
+                        <div class="avatar">RT</div>
+
+                        <div>
+                            <h3>Rajiv Tamang</h3>
+                            <p class="muted">Technology Enthusiast</p>
+                        </div>
+                    </div>
+
+                    <div class="profile-divider"></div>
+
+                    <div class="profile-item">
+                        <span>Primary interest</span>
+                        <strong>Technology</strong>
+                    </div>
+
+                    <div class="profile-item">
+                        <span>Mindset</span>
+                        <strong>Always learning</strong>
+                    </div>
+
+                    <div class="profile-item">
+                        <span>Looking forward to</span>
+                        <strong>Building new things</strong>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Interests Section -->
+    <section class="section section-alt" id="interests">
+        <div class="container">
+
+            <p class="section-label">02 — WHAT I LOVE</p>
+
+            <h2 class="section-title">Things that excite me.</h2>
+
+            <p class="section-description">
+                Exploring the ideas and technologies shaping our
+                digital future.
+            </p>
+
+            <div class="card-grid">
+
+                <article class="interest-card">
+                    <div class="card-number">01</div>
+                    <div class="card-icon">⌘</div>
+
+                    <h3>Computers & Software</h3>
+
+                    <p>
+                        Understanding computer systems, software,
+                        websites, and the technology behind digital
+                        experiences.
+                    </p>
+
+                    <span class="card-tag">DIGITAL WORLD</span>
+                </article>
+
+                <article class="interest-card">
+                    <div class="card-number">02</div>
+                    <div class="card-icon">✳</div>
+
+                    <h3>Artificial Intelligence</h3>
+
+                    <p>
+                        Exploring intelligent tools and how AI can
+                        support creativity, learning, and
+                        problem-solving.
+                    </p>
+
+                    <span class="card-tag">EMERGING TECH</span>
+                </article>
+
+                <article class="interest-card">
+                    <div class="card-number">03</div>
+                    <div class="card-icon">↗</div>
+
+                    <h3>Future Innovation</h3>
+
+                    <p>
+                        Following emerging technologies and ideas
+                        that could change how people live and work.
+                    </p>
+
+                    <span class="card-tag">WHAT'S NEXT</span>
+                </article>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Skills Section -->
+    <section class="section" id="skills">
+        <div class="container">
+
+            <p class="section-label">03 — MY LEARNING JOURNEY</p>
+
+            <h2 class="section-title">Skills & interests.</h2>
+
+            <p class="section-description">
+                Areas I am interested in exploring and developing
+                as I continue my technology journey.
+            </p>
+
+            <div class="skills-container">
+                <span class="skill">Technology Research</span>
+                <span class="skill">Computer Fundamentals</span>
+                <span class="skill">Artificial Intelligence</span>
+                <span class="skill">Web Development</span>
+                <span class="skill">Problem Solving</span>
+                <span class="skill">Digital Innovation</span>
+                <span class="skill">Continuous Learning</span>
+            </div>
+
+            <div class="learning-note">
+                <span class="note-icon">↗</span>
+
+                <div>
+                    <h3>Always in progress.</h3>
+                    <p>
+                        Learning never stops. Every new concept is
+                        an opportunity to grow and think differently.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- Vision Section -->
+    <section class="section section-alt" id="vision">
+        <div class="container vision-container">
+
+            <p class="section-label">04 — THE BIGGER PICTURE</p>
+
+            <h2 class="vision-title">
+                The future belongs<br>
+                to the <span>curious.</span>
+            </h2>
+
+            <p class="vision-description">
+                I want to turn my curiosity about technology into
+                practical skills, learn through real projects, and
+                contribute to ideas that make a difference.
+            </p>
+
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section" id="contact">
+        <div class="container">
+
+            <div class="contact-card">
+                <p class="section-label">05 — GET IN TOUCH</p>
+
+                <h2 class="section-title">
+                    Let's talk technology.
+                </h2>
+
+                <p class="section-description">
+                    Have an interesting idea, a technology topic
+                    to discuss, or an opportunity to share?
+                    I'd love to hear from you.
+                </p>
+
+                <!-- Replace # with Rajiv's real contact link -->
+                <a href="#" class="button button-primary">
+                    Contact Me ↗
+                </a>
+            </div>
+
+        </div>
+    </section>
+
+</main>
+
+<!-- Footer -->
+<footer class="footer">
+    <div class="container footer-content">
+        <a href="#home" class="logo">Rajiv<span>.</span></a>
+
+        <p>Built with curiosity and HTML & CSS.</p>
+
+        <p>© 2026 Rajiv Tamang</p>
+    </div>
+</footer>
+
+</body>
+</html>
