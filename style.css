@@ -1,293 +1,666 @@
-<!DOCTYPE html><html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"><meta name="description" content="Rajiv Tamang's personal portfolio. A technology enthusiast passionate about innovation and learning.">
-
-<title>Rajiv Tamang | Tech Enthusiast</title>
-
-<link rel="stylesheet" href="style.css">
-
-</head><body><!-- Navigation -->
-<header class="header">
-    <nav class="container navbar">
-        <a href="#home" class="logo">Rajiv<span>.</span></a>
-
-        <div class="nav-links">
-            <a href="#home">Home</a>
-            <a href="#about">About</a>
-            <a href="#interests">Interests</a>
-            <a href="#skills">Skills</a>
-            <a href="#contact">Contact</a>
-        </div>
-    </nav>
-</header>
-
-<main>
-
-    <!-- Hero Section -->
-    <section class="hero" id="home">
-        <div class="container hero-content">
-
-            <div class="badge">
-                <span class="status-dot"></span>
-                Tech Enthusiast · Lifelong Learner
-            </div>
-
-            <h1>
-                Hello, I'm<br>
-                Rajiv <span class="highlight">Tamang.</span>
-            </h1>
-
-            <p class="hero-description">
-                A technology enthusiast fascinated by innovation,
-                computers, artificial intelligence, and the endless
-                possibilities of the digital world.
-            </p>
-
-            <div class="hero-buttons">
-                <a href="#about" class="button button-primary">
-                    Discover More ↗
-                </a>
-
-                <a href="#contact" class="button button-outline">
-                    Get in Touch
-                </a>
-            </div>
-
-            <div class="hero-footer">
-                <span>CURIOUS MIND.</span>
-                <span>FUTURE FOCUSED.</span>
-                <span>ALWAYS LEARNING.</span>
-            </div>
-
-        </div>
-    </section>
-
-    <!-- About Section -->
-    <section class="section" id="about">
-        <div class="container">
-
-            <p class="section-label">01 — ABOUT ME</p>
-
-            <h2 class="section-title">
-                Curious by nature.<br>
-                Inspired by technology.
-            </h2>
-
-            <div class="about-grid">
-
-                <div class="about-text">
-                    <p>
-                        Technology is more than computers and gadgets.
-                        It is a powerful way to solve problems, connect
-                        people, and transform creative ideas into
-                        something useful.
-                    </p>
-
-                    <p>
-                        I enjoy exploring new technologies, discovering
-                        digital innovations, and understanding how
-                        technology influences our everyday lives.
-                    </p>
-
-                    <p>
-                        My goal is to keep learning, develop practical
-                        skills, and explore opportunities in the
-                        technology industry.
-                    </p>
-                </div>
-
-                <div class="profile-card">
-                    <div class="profile-top">
-                        <div class="avatar">RT</div>
-
-                        <div>
-                            <h3>Rajiv Tamang</h3>
-                            <p class="muted">Technology Enthusiast</p>
-                        </div>
-                    </div>
-
-                    <div class="profile-divider"></div>
-
-                    <div class="profile-item">
-                        <span>Primary interest</span>
-                        <strong>Technology</strong>
-                    </div>
-
-                    <div class="profile-item">
-                        <span>Mindset</span>
-                        <strong>Always learning</strong>
-                    </div>
-
-                    <div class="profile-item">
-                        <span>Looking forward to</span>
-                        <strong>Building new things</strong>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-
-    <!-- Interests Section -->
-    <section class="section section-alt" id="interests">
-        <div class="container">
-
-            <p class="section-label">02 — WHAT I LOVE</p>
-
-            <h2 class="section-title">Things that excite me.</h2>
-
-            <p class="section-description">
-                Exploring the ideas and technologies shaping our
-                digital future.
-            </p>
-
-            <div class="card-grid">
-
-                <article class="interest-card">
-                    <div class="card-number">01</div>
-                    <div class="card-icon">⌘</div>
-
-                    <h3>Computers & Software</h3>
-
-                    <p>
-                        Understanding computer systems, software,
-                        websites, and the technology behind digital
-                        experiences.
-                    </p>
-
-                    <span class="card-tag">DIGITAL WORLD</span>
-                </article>
-
-                <article class="interest-card">
-                    <div class="card-number">02</div>
-                    <div class="card-icon">✳</div>
-
-                    <h3>Artificial Intelligence</h3>
-
-                    <p>
-                        Exploring intelligent tools and how AI can
-                        support creativity, learning, and
-                        problem-solving.
-                    </p>
-
-                    <span class="card-tag">EMERGING TECH</span>
-                </article>
-
-                <article class="interest-card">
-                    <div class="card-number">03</div>
-                    <div class="card-icon">↗</div>
-
-                    <h3>Future Innovation</h3>
-
-                    <p>
-                        Following emerging technologies and ideas
-                        that could change how people live and work.
-                    </p>
-
-                    <span class="card-tag">WHAT'S NEXT</span>
-                </article>
-
-            </div>
-        </div>
-    </section>
-
-    <!-- Skills Section -->
-    <section class="section" id="skills">
-        <div class="container">
-
-            <p class="section-label">03 — MY LEARNING JOURNEY</p>
-
-            <h2 class="section-title">Skills & interests.</h2>
-
-            <p class="section-description">
-                Areas I am interested in exploring and developing
-                as I continue my technology journey.
-            </p>
-
-            <div class="skills-container">
-                <span class="skill">Technology Research</span>
-                <span class="skill">Computer Fundamentals</span>
-                <span class="skill">Artificial Intelligence</span>
-                <span class="skill">Web Development</span>
-                <span class="skill">Problem Solving</span>
-                <span class="skill">Digital Innovation</span>
-                <span class="skill">Continuous Learning</span>
-            </div>
-
-            <div class="learning-note">
-                <span class="note-icon">↗</span>
-
-                <div>
-                    <h3>Always in progress.</h3>
-                    <p>
-                        Learning never stops. Every new concept is
-                        an opportunity to grow and think differently.
-                    </p>
-                </div>
-            </div>
-
-        </div>
-    </section>
-
-    <!-- Vision Section -->
-    <section class="section section-alt" id="vision">
-        <div class="container vision-container">
-
-            <p class="section-label">04 — THE BIGGER PICTURE</p>
-
-            <h2 class="vision-title">
-                The future belongs<br>
-                to the <span>curious.</span>
-            </h2>
-
-            <p class="vision-description">
-                I want to turn my curiosity about technology into
-                practical skills, learn through real projects, and
-                contribute to ideas that make a difference.
-            </p>
-
-        </div>
-    </section>
-
-    <!-- Contact Section -->
-    <section class="section" id="contact">
-        <div class="container">
-
-            <div class="contact-card">
-                <p class="section-label">05 — GET IN TOUCH</p>
-
-                <h2 class="section-title">
-                    Let's talk technology.
-                </h2>
-
-                <p class="section-description">
-                    Have an interesting idea, a technology topic
-                    to discuss, or an opportunity to share?
-                    I'd love to hear from you.
-                </p>
-
-                <!-- Replace # with Rajiv's real contact link -->
-                <a href="#" class="button button-primary">
-                    Contact Me ↗
-                </a>
-            </div>
-
-        </div>
-    </section>
-
-</main>
-
-<!-- Footer -->
-<footer class="footer">
-    <div class="container footer-content">
-        <a href="#home" class="logo">Rajiv<span>.</span></a>
-
-        <p>Built with curiosity and HTML & CSS.</p>
-
-        <p>© 2026 Rajiv Tamang</p>
-    </div>
-</footer>
-
-</body>
-</html>
+/* ========================================
+RAJIV TAMANG — PERSONAL PORTFOLIO
+Built with pure HTML and CSS
+======================================== */
+
+/* 1. RESET AND GLOBAL STYLES */
+
+:root {
+--background: #090d16;
+--surface: #101725;
+--surface-light: #141e30;
+--border: #253148;
+--text: #f1f5f9;
+--muted: #9ba9bd;
+--accent: #38bdf8;
+--accent-light: #7dd3fc;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  }
+
+body {
+font-family: Arial, Helvetica, sans-serif;
+background: var(--background);
+color: var(--text);
+line-height: 1.7;
+overflow-x: hidden;
+}
+
+a {
+color: inherit;
+text-decoration: none;
+}
+
+.container {
+width: 90%;
+max-width: 1100px;
+margin: 0 auto;
+}
+
+::selection {
+background: var(--accent);
+color: #06101c;
+}
+
+/* 2. HEADER AND NAVIGATION */
+
+.header {
+position: sticky;
+top: 0;
+z-index: 100;
+background: rgba(9, 13, 22, 0.94);
+border-bottom: 1px solid var(--border);
+backdrop-filter: blur(14px);
+}
+
+.navbar {
+min-height: 76px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 20px;
+}
+
+.logo {
+font-size: 25px;
+font-weight: 800;
+letter-spacing: -1.5px;
+}
+
+.logo span {
+color: var(--accent);
+}
+
+.nav-links {
+display: flex;
+align-items: center;
+gap: 26px;
+}
+
+.nav-links a {
+font-size: 13px;
+color: var(--muted);
+transition: color 0.25s ease;
+}
+
+.nav-links a:hover {
+color: var(--accent);
+}
+
+/* 3. HERO SECTION */
+
+.hero {
+min-height: 82vh;
+display: flex;
+align-items: center;
+padding: 100px 0 70px;
+position: relative;
+isolation: isolate;
+}
+
+.hero::before {
+content: "";
+position: absolute;
+width: 400px;
+height: 400px;
+right: -100px;
+top: 50px;
+background: rgba(56, 189, 248, 0.08);
+filter: blur(100px);
+border-radius: 50%;
+z-index: -1;
+}
+
+.hero-content {
+position: relative;
+}
+
+.badge {
+display: inline-flex;
+align-items: center;
+gap: 9px;
+padding: 8px 14px;
+border: 1px solid var(--border);
+border-radius: 30px;
+background: var(--surface);
+color: var(--accent-light);
+font-size: 12px;
+margin-bottom: 28px;
+}
+
+.status-dot {
+width: 7px;
+height: 7px;
+background: #4ade80;
+border-radius: 50%;
+box-shadow: 0 0 10px rgba(74, 222, 128, 0.4);
+}
+
+.hero h1 {
+font-size: clamp(45px, 8vw, 82px);
+line-height: 1.08;
+letter-spacing: -4px;
+font-weight: 800;
+margin-bottom: 25px;
+}
+
+.highlight {
+color: var(--accent);
+}
+
+.hero-description {
+max-width: 620px;
+font-size: 17px;
+line-height: 1.9;
+color: var(--muted);
+margin-bottom: 32px;
+}
+
+.hero-buttons {
+display: flex;
+flex-wrap: wrap;
+gap: 14px;
+}
+
+/* 4. BUTTONS */
+
+.button {
+display: inline-flex;
+align-items: center;
+justify-content: center;
+min-height: 46px;
+padding: 12px 21px;
+border-radius: 7px;
+font-size: 13px;
+font-weight: 700;
+transition:
+transform 0.25s ease,
+background 0.25s ease,
+border-color 0.25s ease;
+}
+
+.button:hover {
+transform: translateY(-3px);
+}
+
+.button-primary {
+color: #06101c;
+background: var(--accent);
+border: 1px solid var(--accent);
+}
+
+.button-primary:hover {
+background: var(--accent-light);
+border-color: var(--accent-light);
+}
+
+.button-outline {
+border: 1px solid var(--border);
+color: var(--text);
+background: transparent;
+}
+
+.button-outline:hover {
+border-color: var(--accent);
+color: var(--accent);
+}
+
+.hero-footer {
+display: flex;
+flex-wrap: wrap;
+gap: 25px;
+margin-top: 75px;
+padding-top: 22px;
+border-top: 1px solid var(--border);
+}
+
+.hero-footer span {
+font-size: 10px;
+letter-spacing: 2px;
+color: #728098;
+}
+
+/* 5. GENERAL SECTION STYLES */
+
+.section {
+padding: 100px 0;
+scroll-margin-top: 75px;
+}
+
+.section-alt {
+background: #0d1320;
+border-top: 1px solid rgba(37, 49, 72, 0.5);
+border-bottom: 1px solid rgba(37, 49, 72, 0.5);
+}
+
+.section-label {
+color: var(--accent);
+font-size: 11px;
+font-weight: 700;
+letter-spacing: 2.5px;
+margin-bottom: 17px;
+}
+
+.section-title {
+font-size: clamp(30px, 5vw, 46px);
+line-height: 1.2;
+letter-spacing: -1.5px;
+margin-bottom: 25px;
+}
+
+.section-description {
+max-width: 620px;
+color: var(--muted);
+font-size: 15px;
+margin-bottom: 38px;
+}
+
+/* 6. ABOUT SECTION */
+
+.about-grid {
+display: grid;
+grid-template-columns: 1.15fr 0.85fr;
+align-items: start;
+gap: 55px;
+margin-top: 35px;
+}
+
+.about-text {
+color: var(--muted);
+font-size: 15px;
+line-height: 2;
+}
+
+.about-text p + p {
+margin-top: 20px;
+}
+
+.profile-card {
+padding: 27px;
+border: 1px solid var(--border);
+background: var(--surface);
+border-radius: 12px;
+}
+
+.profile-top {
+display: flex;
+align-items: center;
+gap: 16px;
+margin-bottom: 25px;
+}
+
+.avatar {
+width: 55px;
+height: 55px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-shrink: 0;
+border-radius: 10px;
+color: var(--accent);
+background: #14283d;
+border: 1px solid #24435f;
+font-size: 18px;
+font-weight: 800;
+}
+
+.profile-top h3 {
+font-size: 17px;
+}
+
+.muted {
+color: var(--muted);
+font-size: 12px;
+}
+
+.profile-divider {
+height: 1px;
+background: var(--border);
+margin-bottom: 20px;
+}
+
+.profile-item {
+display: flex;
+justify-content: space-between;
+align-items: flex-start;
+gap: 15px;
+margin-top: 17px;
+font-size: 12px;
+}
+
+.profile-item span {
+color: var(--muted);
+}
+
+.profile-item strong {
+text-align: right;
+font-size: 12px;
+font-weight: 600;
+}
+
+/* 7. INTEREST CARDS */
+
+.card-grid {
+display: grid;
+grid-template-columns: repeat(3, minmax(0, 1fr));
+gap: 20px;
+}
+
+.interest-card {
+position: relative;
+padding: 28px 24px;
+min-height: 280px;
+background: var(--surface);
+border: 1px solid var(--border);
+border-radius: 12px;
+transition:
+transform 0.3s ease,
+border-color 0.3s ease,
+background 0.3s ease;
+}
+
+.interest-card:hover {
+transform: translateY(-6px);
+border-color: #397b9f;
+background: #121d2d;
+}
+
+.card-number {
+position: absolute;
+top: 23px;
+right: 23px;
+color: #65758c;
+font-size: 11px;
+letter-spacing: 1px;
+}
+
+.card-icon {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 49px;
+height: 49px;
+margin-bottom: 25px;
+border: 1px solid #24435f;
+background: #14283d;
+border-radius: 10px;
+color: var(--accent);
+font-size: 25px;
+}
+
+.interest-card h3 {
+font-size: 17px;
+margin-bottom: 12px;
+}
+
+.interest-card p {
+color: var(--muted);
+font-size: 13px;
+line-height: 1.9;
+margin-bottom: 22px;
+}
+
+.card-tag {
+display: inline-block;
+font-size: 9px;
+letter-spacing: 1.5px;
+color: var(--accent);
+}
+
+/* 8. SKILLS SECTION */
+
+.skills-container {
+display: flex;
+flex-wrap: wrap;
+gap: 12px;
+}
+
+.skill {
+display: inline-block;
+padding: 10px 16px;
+border: 1px solid var(--border);
+border-radius: 6px;
+background: var(--surface);
+color: #c6d2e2;
+font-size: 13px;
+transition:
+border-color 0.25s ease,
+color 0.25s ease;
+}
+
+.skill:hover {
+border-color: var(--accent);
+color: var(--accent);
+}
+
+.learning-note {
+display: flex;
+align-items: flex-start;
+gap: 20px;
+padding: 25px;
+margin-top: 40px;
+border: 1px solid var(--border);
+border-radius: 10px;
+background: var(--surface);
+}
+
+.note-icon {
+font-size: 27px;
+color: var(--accent);
+}
+
+.learning-note h3 {
+font-size: 16px;
+margin-bottom: 5px;
+}
+
+.learning-note p {
+color: var(--muted);
+font-size: 13px;
+}
+
+/* 9. VISION SECTION */
+
+.vision-container {
+text-align: center;
+}
+
+.vision-title {
+font-size: clamp(38px, 7vw, 66px);
+line-height: 1.2;
+letter-spacing: -2.5px;
+margin: 20px 0;
+}
+
+.vision-title span {
+color: var(--accent);
+}
+
+.vision-description {
+max-width: 620px;
+margin: 0 auto;
+color: var(--muted);
+font-size: 15px;
+line-height: 2;
+}
+
+/* 10. CONTACT SECTION */
+
+.contact-card {
+padding: 60px 30px;
+text-align: center;
+border: 1px solid var(--border);
+border-radius: 15px;
+background:
+radial-gradient(
+ellipse at top,
+rgba(56, 189, 248, 0.08),
+transparent 65%
+),
+var(--surface);
+}
+
+.contact-card .section-title {
+margin-bottom: 15px;
+}
+
+.contact-card .section-description {
+margin: 0 auto 28px;
+}
+
+/* 11. FOOTER */
+
+.footer {
+padding: 25px 0;
+border-top: 1px solid var(--border);
+background: var(--background);
+}
+
+.footer-content {
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+gap: 18px;
+}
+
+.footer-content p {
+color: var(--muted);
+font-size: 11px;
+}
+
+/* 12. RESPONSIVE DESIGN */
+
+@media (max-width: 800px) {
+
+.navbar {
+    padding: 15px 0;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.nav-links {
+    width: 100%;
+    gap: 19px;
+    flex-wrap: wrap;
+}
+
+.hero {
+    min-height: auto;
+    padding: 90px 0 55px;
+}
+
+.hero h1 {
+    letter-spacing: -2.5px;
+}
+
+.hero-footer {
+    margin-top: 50px;
+}
+
+.about-grid {
+    grid-template-columns: 1fr;
+    gap: 30px;
+}
+
+.card-grid {
+    grid-template-columns: 1fr;
+}
+
+.interest-card {
+    min-height: auto;
+}
+
+.section {
+    padding: 70px 0;
+}
+
+.profile-card {
+    max-width: 100%;
+}
+
+}
+
+@media (max-width: 480px) {
+
+.container {
+    width: 88%;
+}
+
+.logo {
+    font-size: 23px;
+}
+
+.nav-links {
+    gap: 12px 17px;
+}
+
+.nav-links a {
+    font-size: 12px;
+}
+
+.hero {
+    padding-top: 70px;
+}
+
+.hero h1 {
+    font-size: 47px;
+    letter-spacing: -2px;
+}
+
+.hero-description {
+    font-size: 15px;
+}
+
+.hero-footer {
+    gap: 12px 18px;
+}
+
+.hero-footer span {
+    font-size: 9px;
+}
+
+.section-title {
+    font-size: 31px;
+}
+
+.profile-item {
+    flex-direction: column;
+    gap: 3px;
+}
+
+.profile-item strong {
+    text-align: left;
+}
+
+.contact-card {
+    padding: 40px 20px;
+}
+
+.vision-title {
+    font-size: 39px;
+}
+
+.footer-content {
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+}
+
+/* Respect reduced-motion preferences */
+
+@media (prefers-reduced-motion: reduce) {
+*,
+*::before,
+*::after {
+scroll-behavior: auto !important;
+transition-duration: 0.01ms !important;
+}
+}
